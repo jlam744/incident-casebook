@@ -1,0 +1,11 @@
+.env
+*.pem
+*.key
+credentials*
+__pycache__/
+.pytest_cache/
+*.csv
+!samples/*.csv
+.DS_Store
+.terraform/
+*.tfstate*
